@@ -11,6 +11,10 @@
     "ultra-button": "^1.0.2",
     "vue": "^3.2.13"
   },
+  "repository": {
+  "type": "git",
+    "url": "git+git://github.com/su687954/count-to-nmini.git"
+},
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
